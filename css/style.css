@@ -14,6 +14,18 @@ body {
   	font-size: 1em;
 }
 
+.centered { 
+  padding: 0 3.125em;
+  font-family:'Montserrat', sans-serif; 
+  background: #f16059; 
+}
+ 
+h1 {
+  font-size: 2em; 
+  color: #fff; 
+  text-align: center;
+}
+
 
 
 
